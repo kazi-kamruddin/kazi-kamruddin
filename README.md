@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight)
+![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&include_all_commits=true&hide=stars)
 
 ---
 
