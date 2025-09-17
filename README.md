@@ -47,27 +47,6 @@
        alt="Top Languages" height="200px"/>
 </p>
 
-<!-- Custom Language Legend -->
-<p align="center">
-  <table>
-    <tr>
-      <td><b>JavaScript</b></td>
-      <td><b>CSS</b></td>
-      <td><b>HTML</b></td>
-    </tr>
-    <tr>
-      <td><b>C#</b></td>
-      <td><b>C++</b></td>
-      <td><b>Dart</b></td>
-    </tr>
-    <tr>
-      <td><b>Python</b></td>
-      <td><b>Swift</b></td>
-      <td></td>
-    </tr>
-  </table>
-</p>
-
 
 ---
 
