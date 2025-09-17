@@ -2,6 +2,7 @@
 
 **Computer Science Undergrad Student at Ahsanullah University of Science & Technology.**
 
+---
 
 ## 🛠️ Skills & Tools
 <p>
@@ -34,8 +35,12 @@
 
 ---
 
-## 📊 GitHub Stats
-![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&include_all_commits=true&hide=stars)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&include_all_commits=true&hide=stars" alt="Kazi's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-kamruddin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
 
 ---
 
