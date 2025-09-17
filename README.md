@@ -37,13 +37,37 @@
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&include_all_commits=true&hide=stars" 
        alt="Kazi's GitHub stats" height="200px"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-kamruddin&show_icons=true&theme=tokyonight&layout=compact&langs_count=9&hide=jupyter%20notebook" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-kamruddin&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook" 
        alt="Top Languages" height="200px"/>
 </p>
+
+<!-- Custom Language Legend -->
+<p align="center">
+  <table>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td><b>CSS</b></td>
+      <td><b>HTML</b></td>
+    </tr>
+    <tr>
+      <td><b>C#</b></td>
+      <td><b>C++</b></td>
+      <td><b>Dart</b></td>
+    </tr>
+    <tr>
+      <td><b>Python</b></td>
+      <td><b>Swift</b></td>
+      <td></td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
