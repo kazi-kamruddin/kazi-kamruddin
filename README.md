@@ -38,8 +38,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&include_all_commits=true&hide=stars" alt="Kazi's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-kamruddin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kazi-kamruddin&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&include_all_commits=true&hide=stars" 
+       alt="Kazi's GitHub stats" height="200px"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-kamruddin&show_icons=true&theme=tokyonight&langs_count=9" 
+       alt="Top Languages" height="200px"/>
 </p>
 
 ---
